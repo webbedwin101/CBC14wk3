@@ -1,0 +1,36 @@
+:root (
+    --bkgr1()
+    --bkgr2()
+    --txt1()
+    --txt2()
+    --accent1()
+    --accent2()
+)
+
+#Container{
+    display: grid;
+}
+
+#Header {
+
+}
+
+#Content {
+    display: grid;
+}
+
+#Footer {
+
+}
+
+.topic {
+
+}
+
+.CSS {
+
+}
+
+.html (
+    
+)
