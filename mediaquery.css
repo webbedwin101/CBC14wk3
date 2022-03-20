@@ -52,7 +52,7 @@
         margin: 2vw;
     }
     
-    .title.html, .title.css {
+    .column-head.html, .column-head.css {
         text-align: center;
         background-color: darkcyan;
     }
